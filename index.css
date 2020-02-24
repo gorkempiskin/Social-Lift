@@ -1,0 +1,50 @@
+body                                    {margin:0px; overflow:auto;}
+div                                     {font-family: 'Roboto', sans-serif;}
+.header                                 {background:url("images/mainimage.png")no-repeat;background-size: 100% 100%; }
+.header1                                {position:relative;display:flex;height:120px; align-items:center; flex-direction: row;justify-content:space-between; }
+.logo                                   {margin-left:60px; display:flex; }
+.text                                   {color:white; line-height: 35px;margin-left:30px; font-family: 'Roboto', sans-serif;}
+.text span                              {text-align:center;}
+.menu                                   {padding:15px;color:white; margin-right:25px;}
+.menu ul                                {display:flex;}
+.menu ul li                             {color: white;list-style: none;margin-left:50px;font-family: 'Roboto', sans-serif;font-weight: bolder;}
+.slider                                 {height:430px; color:white; display: flex;  align-items:center;justify-content:space-evenly; flex-direction:column;}
+.text1                                  {font-size:65px; font-weight: bolder; font-family:'Roboto',sans-serif; }
+.text2                                  {font-family:'Roboto',sans-serif; font-size:40px; font-weight: lighter;}
+.text3                                  {margin-top:30px; white-space: pre-line; font-size:30px; text-align:center; font-weight:bolder;margin-top:70px;}
+.text4                                  {margin-top:20px;background-color:white;padding:25px;color:black; border-radius: 5px; font-size:20px;font-family:'Roboto',sans-serif; font-weight:bolder;}
+.About                                  {margin-top:15px;}
+.first-about                            {display: flex; flex-direction: row; justify-content: space-between; margin-top:35px; }
+.left-about                             {flex:1; font-size:60px; color:#333333;display:flex;align-items: center;flex-direction: column; }
+.left-about-text                        {white-space: pre-line; font-weight:bolder; padding-left: 45px;}
+.right-about                            {flex:4; display:flex;}
+.right-about-text                       {width:90%; white-space: pre-line; font-size:23px; font-weight:bolder; color:#333333;  line-height:40px; text-align:justify; padding:8px 0px 0px 100px; }
+.line					{margin:auto; width: 96%; margin-top:15px;}
+.line img				{width:100%;}
+.About-2         			{margin-top:15px; }
+.second-about				{display: flex; position: relative; justify-content: space-around; margin-bottom: 40px;}
+.left-about-2				{flex:1; color:#333333;display:flex; min-width:410px; }
+.left-about-text-2			{font-weight:bolder;  padding-left:45px; display:flex; }
+.text					{display: flex; }
+.number					{color:#23c0f1; font-size:45px;  display: flex;flex-direction: column;margin-top:5px;}
+.top					{margin-top:77px;}
+.top3					{margin-top:77px;}
+.right-text				{color:black;display: flex;flex-direction: column; margin-left:1em;  font-size:20px;position:absolute; }
+.top-text-1				{margin-left:1em;margin-top:10px;}
+.top-text-2				{margin-top:73px; white-space: pre-line; line-height:20px;margin-left:4.5em;}
+.top-text-3				{margin-top:75px;margin-left:3em;}
+.top-text-4				{margin-top:77px;margin-left:2em; }
+.right-about-2                          {flex:4;   max-height:400px; }
+.right-about-text-2                     {width:90%; }
+.right-about-text-2-1			{padding-left:100px; margin-top:15px;font-size:23px;}
+.right-about-text-2-2			{padding-left:100px;font-size:23px;margin-top:80px;}
+.blue-area                              {margin:auto;color:white; display: flex;  align-items:center; width:80%; background-color:#23c0f1; }
+.blue-area-text				{padding:50px;  margin:auto;text-align: justify;  font-size:29px;  }
+.left-Quality				{flex:1; font-size:60px; color:#333333;display:flex;flex-direction: column;min-width: 370px;}
+.Quality				{display: flex; flex-direction: row; justify-content: space-between; margin-top:35px;}
+.Quality-text				{white-space: pre-line; font-weight:bolder; padding-left: 45px;}
+.logos					{margin-top:25px;}
+.kutu					{width:290px;height:250px;border:1px solid #efefef;color: white;text-align: center;margin:7px; line-height:260px; }
+.kutukapsa				{width: 70%;margin:auto;display: flex;flex-direction:row;flex-wrap: wrap;min-width:1300px;}
+
+
